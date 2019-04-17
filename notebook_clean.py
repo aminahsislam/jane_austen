@@ -44,7 +44,6 @@ words = []
 # Looping through the tokens and make them lower case
 for word in tokens:
     words.append(word.lower())
-    # YOUR CODE FOR TASK 5 ...
 
 # Printing out the first 8 words / tokens
 print(words[0:8])
